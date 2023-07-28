@@ -13,7 +13,7 @@ bot = Client(
     name="bot",
     api_hash=api_hash,
     api_id=api_id,
-    bot_token="6358376034:AAHQ6CzqdxMfrMOYM9vAF9XU_vDb_Lmawq8"
+    bot_token="here i put bot token"
 )
 
 
